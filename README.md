@@ -15,7 +15,7 @@ This project analyzes Amazon products using **SQL Server** and **Microsoft Excel
 ### 🔹 Excel Dashboard – Amazon Products
 - Visualized reviews, ratings, prices, and discounts
 - Created dynamic PivotCharts and slicers
-- 📂 [📊 View Excel Dashboard](./Excel-Dashboard/Amazon_Dashboard_Analysis.xlsx)
+- 📂 [📊 View Excel Dashboard](./Amazon_casestudy&Dashboard_Analysis.xlsx)
 
 
 
