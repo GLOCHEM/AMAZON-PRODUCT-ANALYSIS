@@ -8,12 +8,16 @@ This project analyzes Amazon products using **SQL Server** and **Microsoft Excel
 ### 🔹 SQL Report – Kultra Mega Stores
 - Focused on order data from 2009–2012
 - Extracted top-selling products, shipping insights, and customer segmentation
-- 📂 [`SQL-Analysis`](./SQL-Analysis/)
+- 📂 [[📝 View SQL Script](./SQL-Analysis/KMS_Orders_Analysis.sql)
+
+
 
 ### 🔹 Excel Dashboard – Amazon Products
 - Visualized reviews, ratings, prices, and discounts
 - Created dynamic PivotCharts and slicers
-- 📂 [`Excel-Dashboard`](./Excel-Dashboard/)
+- 📂 [📊 View Excel Dashboard](./Excel-Dashboard/Amazon_Dashboard_Analysis.xlsx)
+
+
 
 ## 🔍 Key Insights
 
