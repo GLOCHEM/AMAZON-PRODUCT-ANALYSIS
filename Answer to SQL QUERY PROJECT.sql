@@ -11,9 +11,9 @@ Answer: TOP 3 REGION IN TERM OF SALES ARE:
 3. PRARIE		2837304.60
 
 BOTTOM 3 REGION IN TERM OF SALES ARE:
-1. NUNAVUT		116376.47
-2. NORTHWEST TERRITORIES		800847.35
-3. YUKON		975867.39
+1. NUNAVUT			116376.47
+2. NORTHWEST TERRITORIES	800847.35
+3. YUKON			975867.39
 
 
 ------3. What were the total sales of appliances in Ontario?-------
@@ -31,16 +31,16 @@ Total Furniture sales Ontario 1109617.50
 Answer: 
 
 order_id				customer_name				total_sales
-	25318					Ken Dana				3.20
-	49925					Adam Hart				3.41	
-	9635					Andy Reiter				3.42
+	25318					Ken Dana			3.20
+	49925					Adam Hart			3.41	
+	9635					Andy Reiter			3.42
 	16711					Jeremy Farry			3.96
-	44098					John Grady				5.06
+	44098					John Grady			5.06
 	14117					Nathan Mautz			5.31
 	52322					Joni Blumstein			5.70
-	3808					Lynn Smith				6.13
+	3808					Lynn Smith			6.13
 	22819					Patrick Jones			6.77
-	6						Ruben Dartt				6.93
+	6					Ruben Dartt			6.93
 
 
  Recommendation:
@@ -69,7 +69,7 @@ Answer: The Most valuable customers and their typical products/services are;
 
 Products					Purchase_Count
 Technology						13
-Office Supplies					11
+Office Supplies						11
 Furniture						8
 
 
@@ -79,9 +79,9 @@ Answer: The small business customer thatbhad the highest sales is;
 Denis Kane with order_Id 14435 and total sales of 38399.35
 
 
-----8. Which Corporate Customer placed the most number of orders in 2009 – 2012?-------
+----8. Which Corporate Customer placed the most number of orders in 2009 â€“ 2012?-------
 
-Answer: Corporate customer with most orders from (2009–2012) are:
+Answer: Corporate customer with most orders from (2009â€“2012) are:
 Justin Knight, Laurel Elliston, Giulietta Weimer, Julia Barnett and Kristen Hastings
 with 6, 6, 5, 5, 5 total orders respectfully.
 
@@ -98,16 +98,16 @@ Emily Phan with order_id 29766and total profits of 28844.39
 Answer:
 -----TOP 10 CUSTOMERS THAT RETURNED ITEMS AND THE SEGMENT THEY BELONG ARE:
 Customer_Name			Customer_Segment			Total_Returns
-Darren Budd				Consumer						10
-Erin Creighton			Corporate						10
-Olvera Toch				Home Office						8
-Erica Smith				Small Business					7
-Brad Thomas				Home Office						7
-Helen Wasserman			Home Office						7
-Fred Harton				Home Office						6
-Dianna Vittorini		Corporate						6
-Aleksandra Gannaway		Corporate						6
-Charles Sheldon			Corporate						6
+Darren Budd			Consumer					10
+Erin Creighton			Corporate					10
+Olvera Toch			Home Office					8
+Erica Smith			Small Business					7
+Brad Thomas			Home Office					7
+Helen Wasserman			Home Office					7
+Fred Harton			Home Office					6
+Dianna Vittorini		Corporate					6
+Aleksandra Gannaway		Corporate					6
+Charles Sheldon			Corporate					6
 
 
 -------11. If the delivery truck is the most economical but the slowest shipping method and 
