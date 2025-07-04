@@ -12,7 +12,7 @@ This project analyzes Amazon products using **SQL Server** and **Microsoft Excel
 ### 🔹 Excel Dashboard – Amazon Products
 - Visualized reviews, ratings, prices, and discounts
 - Created dynamic PivotCharts and slicers
-[Download file] ( 
+[Download file] (https://raw.githubusercontent.com/GLOCHEM/amazon-product-analysis/main
 ## 🔍 Key Insights
 Categories like electronics and home & Kitchen have the highest number of products, reviews, and discount
 This suggest that they are highly competitive. 
